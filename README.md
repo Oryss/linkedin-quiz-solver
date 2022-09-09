@@ -1,3 +1,7 @@
+LinkedIn Quiz Solver adds a button on quizzes which display the right answer.
+
+[linkedinquiz.webm](https://user-images.githubusercontent.com/43440732/189339127-7f71fb65-de4e-4f2d-bf0e-473aeb283e15.webm)
+
 # Installation
 
 - Download the latest release, unzip it anywhere
