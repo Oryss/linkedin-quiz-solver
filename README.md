@@ -20,6 +20,6 @@ It uses [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazha
 
 # Limitations
 
-- It does not work with questions based on images
+- It does not work with questions/answers based on images
 - The question language is based on LinkedIn's current language so if you're doing an english quiz when using the italian interface, it won't work well
 - As it's parsing markdown, it can be buggy while matching questions/answers
