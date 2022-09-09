@@ -8,8 +8,8 @@ It uses [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazha
 
 # Installation
 
-- Download the latest release, unzip it anywhere
-- Go to `chrome://extensions/` and activate developer mode
+- [Download the latest release](https://github.com/Oryss/linkedin-quiz-solver/releases), unzip it anywhere
+- Go to [chrome://extensions/](chrome://extensions/) and activate developer mode
 - Click "Install unpacked extension" and select the `LinkedInQuizSolver` folder
 
 # Usage
