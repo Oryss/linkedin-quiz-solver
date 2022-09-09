@@ -1,4 +1,4 @@
-LinkedIn Quiz Solver adds a button on quizzes which display the right answer.
+# LinkedIn Quiz Solver
 
 It uses [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) as a source for answers.
 
